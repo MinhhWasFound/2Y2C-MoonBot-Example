@@ -1,0 +1,25 @@
+{
+  "name": "2y2c-moonbot-example",
+  "version": "1.0.0",
+  "description": "Example bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonVN571/2Y2C-MoonBot-Example.git"
+  },
+  "keywords": [
+    "moonbot",
+    "source",
+    "code",
+    "example"
+  ],
+  "author": "Moonz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoonVN571/2Y2C-MoonBot-Example/issues"
+  },
+  "homepage": "https://github.com/MoonVN571/2Y2C-MoonBot-Example#readme"
+}
